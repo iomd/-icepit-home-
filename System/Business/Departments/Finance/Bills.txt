@@ -1,0 +1,4 @@
+splice|$9.99|
+spotify|$
+Xbox|$14.99
+netflix|$17.99

@@ -1,0 +1,23 @@
+// Recurring Bills //
+Xbox -
+  $015.00/mnt
+  2ndweek
+OneDrive -
+  $100.00/yr
+  Unlimited Storage
+Netflix -
+  $016.00/mnt
+  5 profiles
+Total:
+  100/12
+  (+/-)$10/mnt
+  10 + 15 + 16
+  = $041.00/mnt
+
+
+// Cancel These //
+GDrive
+  $030.00/yr
+  2TB Storage
+Splice
+  $010.00/mnt
